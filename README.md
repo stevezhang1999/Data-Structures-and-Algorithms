@@ -14,6 +14,7 @@ Code for practice.
 -sparse matrix (Storage, Transpose and Fast-Transpose)
 
 -queue simulation (descrete event simulation) 2018, Nov. 18th.
+
   compiled excutable will crash, but OK with a debugger. trying hard to fix.
 
 -to be continued...
